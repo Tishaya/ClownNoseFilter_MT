@@ -1,0 +1,19 @@
+
+body{ 
+   background-image:url("final.jpg");
+   /*for exam: to make background not repeat
+   background-repeat: no-repeat;
+   background-size: cover;*/
+}
+
+h3{ 
+   font-size: 25px !important ;
+}
+
+canvas{
+    border:3px dashed black !important;
+    margin-top: 50px;
+   }
+
+
+
